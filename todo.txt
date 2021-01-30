@@ -1,8 +1,0 @@
-Angular: Employee Components, Register, div user messages
-Python: Research Database Relationship
-Deploy App to GitHub, Publish app to Heroku
-
-
-
-Deploy json-server to heroku and update angular phonebook
-Change python app database from mysql to sqlite
